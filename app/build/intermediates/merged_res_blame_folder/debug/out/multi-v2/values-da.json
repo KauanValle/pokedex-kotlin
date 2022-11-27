@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kauanvallesantos/Documents/Projetos Pessoais/Faculdade/DevMobile/teste/DM_pokeDex/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/Users/kauanvallesantos/Documents/Projetos Pessoais/Faculdade/DevMobile/teste/Pokedex-Kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
                     "source": "/Users/kauanvallesantos/.gradle/caches/transforms-3/aec67b6868cdcd0a24283aeb910d5395/transformed/appcompat-1.2.0/res/values-da/values-da.xml",
